@@ -124,7 +124,7 @@ Ready to begin? Start with [Chapter 1: Getting Started](01-getting-started.md).
 ## Current Snapshot (auto-updated)
 
 - repository: [`anthropics/skills`](https://github.com/anthropics/skills)
-- stars: about **121k**
+- stars: about **125k**
 
 ## What You Will Learn
 

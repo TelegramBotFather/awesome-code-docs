@@ -42,8 +42,8 @@ This track focuses on:
 ## Current Snapshot (auto-updated)
 
 - repository: [`phidatahq/phidata`](https://github.com/phidatahq/phidata)
-- stars: about **39.5k**
-- latest release: [`v2.5.17`](https://github.com/phidatahq/phidata/releases/tag/v2.5.17) (published 2026-04-15)
+- stars: about **39.7k**
+- latest release: [`v2.6.1`](https://github.com/phidatahq/phidata/releases/tag/v2.6.1) (published 2026-04-24)
 
 ## What You Will Learn
 
